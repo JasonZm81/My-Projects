@@ -1,4 +1,4 @@
-# Sun-Tracker-Solar-Panel
+# Sun_Tracker_Solar_Panel
 
 It is a smart IOT solar panel that allows user to attain maximum sunlight exposure throughout the day and store the energy for later use. 
 

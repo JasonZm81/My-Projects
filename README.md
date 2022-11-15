@@ -13,3 +13,4 @@ Components of the project:
 - Power Bank - where the light energy is stored
 - Solar Panel
 ![Sun-Tracker-Solar-Panel](https://user-images.githubusercontent.com/81252202/201920946-a5f930e6-2b5e-4fb2-8c64-8697003fc6a7.png)
+![blynk app](https://user-images.githubusercontent.com/81252202/201921834-74810830-e3f1-4544-ad25-7b6b4db4be34.png)

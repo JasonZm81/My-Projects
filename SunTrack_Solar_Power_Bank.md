@@ -1,4 +1,4 @@
-# SunTrack_Solar_Power_Bank.
+# SunTrack_Solar_Power_Bank
 
 It is a smart IOT solar panel that allows user to attain maximum sunlight exposure throughout the day and store the energy for later use. 
 

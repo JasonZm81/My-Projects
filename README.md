@@ -12,3 +12,4 @@ Components of the project:
   - Display total energy accumulated.
 - Power Bank - where the light energy is stored
 - Solar Panel
+![Sun-Tracker-Solar-Panel](https://user-images.githubusercontent.com/81252202/201920946-a5f930e6-2b5e-4fb2-8c64-8697003fc6a7.png)
